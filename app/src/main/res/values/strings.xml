@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Ebus</string>
+    <string name="action_settings">action_settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="country_prompt">Choose a Bus Coach</string>
+
+    <string-array name="country_arrays">
+        <item>EasyCoaches</item>
+        <item>QueenChoaches</item>
+        <item>AkambaChoaches</item>
+        <item>ShuttleExpress</item>
+        <item>EldoretExpress</item>
+    </string-array>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">home</string>
+    <string name="txtfirstname_hint">firstname</string>
+    <string name="txtlastname_hint">lastname</string>
+    <string name="txtemail_hint">email</string>
+    <string name="txtphonenumber_hint">phonenumber</string>
+    <string name="txtpassword_hint">password</string>
+    <string name="txtusername_hint">username</string>
+    <string name="txtlogin_hint">login</string>
+    <string name="txtsignup_hint">createAccount</string>
+    <string name="txtsubmit_hint">submit</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_db">DB</string>
+
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter correct username</string>
+    <string name="error_message_phonenumber">Enter Valid Phonenumber</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_phonenumber_exists">phonenumber Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_username_password">Wrong username or Password</string>
+
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="title_activity_users_list">UsersListActivity</string>
+
+
+</resources>

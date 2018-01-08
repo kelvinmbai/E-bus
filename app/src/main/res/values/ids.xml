@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lblDateAndTime" type="id">lblDateAndTime</item>
+    <item name="btnDate" type="id">btnDate</item>
+    <item name="btnTime" type="id">btnTime</item>
+</resources>

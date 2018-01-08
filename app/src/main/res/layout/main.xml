@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/cyan"
+    android:id="@+id/widget18"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/country_arrays"
+        android:prompt="@string/country_prompt" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/lblDateAndTime"
+        android:layout_width="fill_parent"
+        android:layout_height="47px"
+        android:background="#ff000099"
+        android:textStyle="bold">
+    </TextView>
+    <Button
+        android:id="@+id/btnDate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Set the Date">
+    </Button>
+    <Button
+        android:id="@+id/btnTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Set the Time">
+    </Button>
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit" />
+
+</LinearLayout>
